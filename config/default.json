@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://ldevendarreddy:vk55j168ytXkrPCH@contactkeeper.yjivr.mongodb.net/",
+
+  "jwtSecret": "yourSecretKeyHere"
+}
